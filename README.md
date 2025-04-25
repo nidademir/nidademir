@@ -1,4 +1,3 @@
-## 
 Hi there! I'm Nida – a math graduate turned developer! 👩‍🔬💻  
 I enjoy building things with code and diving deep into data.  
 Currently, I'm attending a **Data Analysis Bootcamp** where I work with **Python** and **SQL**.
