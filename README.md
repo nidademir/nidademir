@@ -23,6 +23,3 @@ Currently, I'm attending a **Data Analysis Bootcamp** where I work with **Python
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nida-demir)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:niademirqn@gmail.com)
-
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidademir&show_icons=true&theme=radical)
